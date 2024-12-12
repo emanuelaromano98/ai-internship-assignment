@@ -1,4 +1,4 @@
-# Internship AI Assignment 
+# AI Internship Assignment 
 **Task Description:**
 Use AI tools to map this market, identify companies with permitted disposal assets by state, and create a framework for analyzing their ownership (public vs. private).
 
