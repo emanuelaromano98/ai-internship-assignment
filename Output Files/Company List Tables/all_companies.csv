@@ -1,0 +1,60 @@
+name,stateCode,latitude,longitude,contactPhone,company_website,facilitySubtypeIds,status,private_equity_backer,relevance,google_search_count
+Secure Waste Disposal,FL,28.617796,-81.41849,(407) 850-1010,https://www.securewaste.com/,Autoclave,Private,Unknown,Relevant,21900
+Healthcare Medical Waste Services,AZ,32.8851052,-111.7861542,(520) 316-9207,http://www.hmws.com/,Autoclave,Private,Unknown,Relevant,11000
+Medical Waste Services LLC,FL,26.29687,-80.15237,,https://medicalwasteservices.com/,Autoclave,Private,Unknown,Relevant,8
+Medical Waste Services LLC,CA,33.90592,-118.170364,(800) 795-0993,http://www.medicalwasteservices.com/,Autoclave,Private,Unknown,Relevant,8
+On Site Sterilization LLC,PA,40.231205,-75.553055,,https://www.onsitesterylization.com/,Autoclave,Private,Unknown,Relevant,5
+Bio-Cycle LLC,FL,30.21402,-82.64672,(904) 206-2876,https://www.bio-cycle.com/,Autoclave,Private,Unknown,Relevant,4
+Medical Environmental Technologies LLC (MET),CA,32.81507,-116.97794,(619) 448-2000,http://www.metsterilizer.com/,Autoclave,Private,Unknown,Relevant,3
+Accu Medical Waste Services,OH,39.377254,-81.39975,,https://www.accumedical.net/,Autoclave,Private,Unknown,Relevant,2
+WM Healthcare Solutions,CA,34.00194,-118.1859,(323) 307-0514,http://wmhealthcare.com/,Autoclave,Private,Unknown,Relevant,2
+WM Healthcare Solutions,NC,35.872198,-76.3878469,(252) 797-3849,http://www.wmhealthcaresolutions.com/,Autoclave,Private,Unknown,Relevant,2
+Assured-Waste Solutions LLC,NC,35.28099,-81.18114,,https://assuredwaste.com/,Autoclave,Private,Unknown,Relevant,2
+WM Healthcare Solutions,AZ,33.48423,-112.1324,602-278-3387,http://wmhealthcare.com/,Autoclave,Private,Unknown,Relevant,2
+Stericycle,NC,36.0661,-79.348716,,https://www.stericycle.com/,Incinerator,Public,Unknown,Relevant,1
+Stericycle,OH,41.7214326,-83.5746035,(419) 729-8005,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,NE,40.87257,-96.638405,(847) 943-6700,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,NM,35.10376,-106.644295,(847) 943-6701,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,NY,40.744755,-73.41823,(847) 943-6702,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,NC,35.4185644,-80.6516599,(336) 578-8900,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,NY,42.49633,-79.2876,(716) 366-4444,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,AL,33.4644,-86.90898,(205) 923-1131,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,OK,35.746998,-96.6454679,(847) 943-6706,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,OH,41.224617,-80.809555,(330) 393-0385,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,OH,41.22125,-80.803333,,https://www.stericycle.com/,Incinerator,Public,Unknown,Relevant,1
+Stericycle,MN,44.962082,-93.18908,(847) 943-6697,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,TN,36.132328,-86.7424,(847) 943-6685,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,TN,35.079817,-90.082588,(847) 943-6707,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,TX,30.351608,-95.443344,(847) 943-6708,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,TX,32.883076,-96.67572,(847) 943-6709,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,TX,30.0612385,-97.6000717,(847) 943-6710,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,UT,40.84382,-111.94086,,https://www.stericycle.com/,Incinerator,Public,Unknown,Relevant,1
+Stericycle,WA,46.55411,-122.291534,(847) 943-6711,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,MO,38.688797,-90.215256,(847) 943-6698,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,KS,39.14446,-94.62203,,https://www.stericycle.com/,Incinerator,Public,Unknown,Relevant,1
+Stericycle,MD,39.206997,-76.57289,(847) 943-6696,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,FL,26.933588,-81.98168,(800) 853-5653,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,CA,36.795425,-119.86527,(559) 275-0992,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,CA,36.884327,-121.39238,(831) 630-1098,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,CA,34.014423,-118.22047,(323) 362-3000,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,CA,39.1435,-121.64428,(530) 921-1913,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,CO,40.077934,-104.944207,(303) 371-6509,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,FL,28.010827,-81.877214,(800) 853-5653,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,LA,32.95392,-93.46063,,https://www.stericycle.com/,Incinerator,Public,Unknown,Relevant,1
+Stericycle,FL,30.350945,-81.73475,(904) 693-3254,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,FL,28.639017,-81.516045,,https://www.stericycle.com/,Incinerator,Public,Unknown,Relevant,1
+Stericycle,GA,33.60776,-84.33073,(770) 362-9090,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+CENTERS FOR DISEASE CONTROL AND PREVENTION (CDC),GA,33.80051,-84.32661,,https://www.cdc.gov/,Incinerator,Private,Unknown,Relevant,1
+US CENTERS FOR DISEASE CONTROL (CDC),GA,33.910549,-83.97487,,https://www.cdc.gov/,Incinerator,Private,Unknown,Relevant,1
+Stericycle,IN,41.589794,-87.31233,(847) 943-6685,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,AZ,33.2871859,-111.9585371,602-437-5624,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,KY,37.3907545,-86.8694928,(847) 943-6694,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Stericycle,WV,39.340645,-81.450966,(847) 943-6712,https://www.stericycle.com/,Autoclave,Public,Unknown,Relevant,1
+Daniels Sharpsmart,FL,28.411428,-81.39081,(407) 738-6464,https://www.danielshealth.com/,Autoclave,Private,Unknown,Relevant,0
+ProMed Waste Solutions,FL,27.765625,-82.64403,(727) 527-0300,https://promedwaste.com/,Autoclave,Private,Unknown,Relevant,0
+Medserve,TN,35.138852,-84.904359,(423) 472-7103,https://www.medserveinc.com/,Autoclave,Private,"Sterling Partners, Cressey & Company",Relevant,0
+Daniels Sharpsmart,CA,36.6584638,-119.716664,(559) 834-6252,https://www.danielshealth.com/,Autoclave,Private,Sterling Partners,Relevant,0
+Ampro American Medical Waste Professionals LLC,IN,41.680737,-85.97508,,https://amprony.com/,Autoclave,Private,Unknown,Relevant,0
+MediWaste Disposal LLC,CA,33.8869327,-117.5966184,(855) 449-6334,https://mediwastedisposal.com/,Autoclave,Private,Unknown,Relevant,0
+Barnett Medical Waste Services,CA,37.907248,-121.2397015,(510) 429-9911,https://barnettmedicalservices.com/,Autoclave,Private,Unknown,Relevant,0
+LB Medwaste Services,WI,44.9642,-89.74277,,http://www.lbmedwaste.com/,Autoclave,Private,Unknown,Relevant,0

@@ -1,0 +1,11 @@
+name,stateCode,facilitySubtypeIds
+Secure Waste Disposal,['FL'],Autoclave
+Healthcare Medical Waste Services,['AZ'],Autoclave
+Medical Waste Services LLC,"['FL', 'CA']",Autoclave
+On Site Sterilization LLC,['PA'],Autoclave
+Bio-Cycle LLC,['FL'],Autoclave
+Medical Environmental Technologies LLC (MET),['CA'],Autoclave
+WM Healthcare Solutions,"['CA', 'NC', 'AZ']",Autoclave
+Assured-Waste Solutions LLC,['NC'],Autoclave
+Accu Medical Waste Services,['OH'],Autoclave
+Stericycle,"['NC', 'OH', 'NE', 'NM', 'NY', 'AL', 'OK', 'MN', 'TN', 'TX', 'UT', 'WA', 'MO', 'KS', 'MD', 'FL', 'CA', 'CO', 'LA', 'GA', 'IN', 'AZ', 'KY', 'WV']","['Incinerator', 'Autoclave']"
