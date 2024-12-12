@@ -3,8 +3,8 @@
 Use AI tools to map this market, identify companies with permitted disposal assets by state, and create a framework for analyzing their ownership (public vs. private).
 
 **Relevant Output Material:**
-*   [Images](https://github.com/emanuelaromano98/ai-internship-assignment/tree/master/Visualizations)
-*   [Tables (CSV/Excel Files)](https://github.com/emanuelaromano98/ai-internship-assignment/tree/master/Company%20List%20Tables)
+*   [Visualizations](https://github.com/emanuelaromano98/ai-internship-assignment/tree/master/Visualizations)
+*   [Company ListTables](https://github.com/emanuelaromano98/ai-internship-assignment/tree/master/Company%20List%20Tables)
 
 **Approach to Analysis:**
 1. Gathered the list of Medical/Biohazardous Waste Incinerators and Commercial Autoclave Facilities using the [EPA website](https://iwaste.epa.gov/treatment-disposal-facilities) API 
