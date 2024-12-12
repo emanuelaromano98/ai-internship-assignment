@@ -4,7 +4,7 @@ Use AI tools to map this market, identify companies with permitted disposal asse
 
 **Relevant Output Material:**
 *   [Visualizations](https://github.com/emanuelaromano98/ai-internship-assignment/tree/master/Visualizations)
-*   [Company ListTables](https://github.com/emanuelaromano98/ai-internship-assignment/tree/master/Company%20List%20Tables)
+*   [Company List Tables](https://github.com/emanuelaromano98/ai-internship-assignment/tree/master/Company%20List%20Tables)
 
 **Approach to Analysis:**
 1. Gathered the list of Medical/Biohazardous Waste Incinerators and Commercial Autoclave Facilities using the [EPA website](https://iwaste.epa.gov/treatment-disposal-facilities) API 
